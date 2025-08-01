@@ -10,3 +10,5 @@ Here's the recommended workflow:
 When working on your project, use the following command:
 
 - `deno task sda` will watch your `sda/main.ts` and its dependencies. Everytime you'll save some changes, the data will be reprocessed.
+
+![Map of Canadian wildfires](sda/output/map.png)
